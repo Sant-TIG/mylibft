@@ -15,7 +15,7 @@
 
   DESCRIPTION
   ***********
-  The ft_strcmp function checks if two strings are equal or not. To do this, it compares
+  The ft_strcmp() function checks if two strings are equal or not. To do this, it compares
   both strings character by character until it finds a difference or one of them ends.
   As the original function, the comparison is done using unsigned characters.
   
