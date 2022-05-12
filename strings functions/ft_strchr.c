@@ -1,7 +1,7 @@
 /*
   NAME
   ****
-  ft_strchr ---> str
+  ft_strchr ---> search for a character in a string
 
   SYNOPSIS
   ********
@@ -10,8 +10,8 @@
 
   PARAMETERS
   **********
-  str --->
-  c   --->
+  str ---> the string where to look for the character.
+  c   ---> the character to find.
 
   DESCRIPTION
   ***********
