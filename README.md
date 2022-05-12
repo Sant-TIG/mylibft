@@ -8,3 +8,4 @@
 |[ft_strchr](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_strchr.c)|Busca la primera aparicion de un caracter en una cadena| - Puntero al caracter<br>- NULL|
 |[ft_strrchr](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_strrchr.c)|Busca la ultima aparicion de un caracter en una cadena| - Puntero al caracter<br>- NULL|
 |[ft_strchrnul](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_strchrnul.c)|Busca la primera aparicion de un caracter en una cadena| - Puntero al caracter<br>- Puntero al caracter nulo|
+|[ft_strstr](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_strrchr.c)|Busca la primera aparicion de una subcadena en una cadena|- Puntero a la subcadena<br>- NULL<br>-Puntero a la cadena|
