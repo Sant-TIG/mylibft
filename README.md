@@ -20,3 +20,4 @@
 |FUNCIONES|DESCRIPCION|VALOR DE RETORNO|
 |:-:|:-:|:-:|
 |[ft_islower](https://github.com/Sant-TIG/mylibft/blob/master/check/ft_islower.c)|Comprueba si un caracter esta en minusculas|- Distinto de cero<br> - Cero|
+|[ft_isupper](https://github.com/Sant-TIG/mylibft/blob/master/check/ft_isupper.c)|Comprueba si un caracter esta en mayusculas|- Distinto de cero<br> - Cero|
