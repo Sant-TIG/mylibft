@@ -24,7 +24,7 @@
   - If it is not possible to convert, the original character.
 */
 
-#include "strings.h"
+#include "check.h"
 
 int	ft_tolower(int c)
 {
