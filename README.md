@@ -14,8 +14,9 @@
 |FUNCIONES|DESCRIPCION|VALOR DE RETORNO|
 |:-:|:-:|:-:|
 |[ft_toupper](https://github.com/Sant-TIG/mylibft/blob/master/convert/ft_toupper.c)|Convierte un caracter a mayusculas|- El caracter convertido<br> - El caracter original|
+|[ft_tolower](https://github.com/Sant-TIG/mylibft/blob/master/convert/ft_tolower.c)|Convierte un caracter a minusculas|- El caracter convertido<br> - El caracter original|
 
-## Convert Library Functions
+## Check Library Functions
 |FUNCIONES|DESCRIPCION|VALOR DE RETORNO|
 |:-:|:-:|:-:|
 |[ft_islower](https://github.com/Sant-TIG/mylibft/blob/master/check/ft_islower.c)|Comprueba si un caracter esta en minusculas|- Distinto de cero<br> - Cero|
