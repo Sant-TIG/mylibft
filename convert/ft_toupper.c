@@ -1,7 +1,7 @@
 /*
   NAME
   ****
-  ft_toupper ---> convert char to upper case
+  ft_toupper ---> convert char to uppercase
 
   SYNOPSIS
   ********
@@ -14,8 +14,9 @@
 
   DESCRIPTION
   ***********
-  The ft_toupper() function converts the character passed as a parameter to
-  uppercase if it is possible.
+  The ft_toupper() function uses the ft_islower() subfunction to check if 'c'
+  is alphabetic and lowercase. If it is the case, converts it to uppercase and
+  if it not, it does not modify it.
 
   RETURN VALUE
   ************
