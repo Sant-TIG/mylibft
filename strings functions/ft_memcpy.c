@@ -16,14 +16,13 @@ n   ---> the number of bytes to be copied
 
 DESCRIPTION
 ***********
-The ft_memcpy function copies n bytes from the src memory area to the dst memory
-area. These memory areas must not overlap. In these cases, use the ft_memmove()
-function instead.
+The ft_memcpy() function copies n bytes from the src memory area to the dst memory
+area. Before starting to copy, it verifies that the arrays passed as parameters
+exist. If so it copies, in order and directly from the source, the first n bytes
+that follows the memory address stored in src.
 
-First, it verifies that the arrays passed as parameters exist. If so it copies,
-in order and directly from source, the first n bytes that follows the memory address
-stored in src. Is for this reason that memory spaces must not overlap, since the
-data could be overwritten.
+Is for this reason that memory spaces must not overlap, since the data could be
+overwritten. In these cases, use the ft_memmove() function instead.
 
 RETURN VALUE
 ************
