@@ -9,6 +9,7 @@
 |[ft_strrchr](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_strrchr.c)|Busca la ultima aparicion de un caracter en una cadena| - Puntero al caracter<br>- NULL|
 |[ft_strchrnul](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_strchrnul.c)|Busca la primera aparicion de un caracter en una cadena| - Puntero al caracter<br>- Puntero al caracter nulo|
 |[ft_strstr](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_strstr.c)|Busca la primera aparicion de una subcadena en una cadena|- Puntero a la subcadena<br>- NULL<br>-Puntero a la cadena|
+|[ft_memcpy](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_memcpy.c)|Copia n bytes de un area de memoria en otra.|- Puntero al area de memoria de destino<br>- NULL|
 
 ## Convert Library Functions
 |FUNCIONES|DESCRIPCION|VALOR DE RETORNO|
