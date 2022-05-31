@@ -1,7 +1,7 @@
 /*
 NAME
 ****
-ft_memchr ---> scan memory for a character
+ft_memchr ---> scan memory for a character in at most n bytes
 
 SYNOPSIS
 ********
