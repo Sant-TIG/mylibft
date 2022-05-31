@@ -1,7 +1,7 @@
 /*
 NAME
 ****
-ft_memcmp ---> compare memory areas to at most the first n bytes
+ft_memcmp ---> compare two memory areas to at most their first n bytes
 
 SYNOPSIS
 ********
