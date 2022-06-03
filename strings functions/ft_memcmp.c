@@ -10,13 +10,13 @@ ft_memcmp(const void *str1, const void *str2, size_t n);
 
 PARAMETERS
 **********
-str1 ---> the pointer to the first memory space
-str2 ---> the pointer to the second memory space
+str1 ---> the pointer to the first memory area
+str2 ---> the pointer to the second memory area
 n    ---> the number of bytes to be compared(at most)
 
 DESCRIPTION
 ***********
-The ft_memcmp() function checks whether the first n bytes of two memory spaces
+The ft_memcmp() function checks whether the first n bytes of two memory areas
 are equal or not. To do this, it compares each pair of bytes until it finds a
 difference or until it has compared n pair of bytes. All comparisons are done
 using unsigned characters.
@@ -35,7 +35,7 @@ RETURN VALUE
 
 */
 
-#include <stddef.h>
+#include "../mylibft.h"
 
 int	ft_memcmp(const void *str1, const void *str2, size_t n)
 {
