@@ -10,8 +10,10 @@
 	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Sant-TIG/mylibft?color=green" />
 </p>
 
+<h3 align="center">
+	<a href="#memory-functions">Memory</a>
+</h3>
 
-[Memory](#memory-functions)·
 ---
 
 ## Memory Functions
