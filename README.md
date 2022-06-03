@@ -20,7 +20,7 @@
 
 ---
 
-## Strings Library Functions
+## Memory Functions
 |FUNCIONES|DESCRIPCION|VALOR DE RETORNO|
 |:-:|:-:|:-:|
 |[ft_memchr](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_memchr.c)|Busca la primera aparicion de un caracter en los primeros n bytes de un espacio de memoria|- Puntero al caracter<br>- NULL|
@@ -28,6 +28,10 @@
 |[ft_memcpy](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_memcpy.c)|Copia n bytes de un area de memoria en otra. Las memorias no debes superponerse|- Puntero al area de memoria de destino<br>- NULL|
 |[ft_memmove](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_memmove.c)|Copia n bytes de un area de memoria en otra. Las memorias pueden superponerse|- Puntero al area de memoria de destino<br>- NULL|
 |[ft_memset](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_memset.c)|Copia un caracter en los primeros n bytes de un espacio de memoria|-Puntero al espacio de memoria|
+
+## Strings Library Functions
+|FUNCIONES|DESCRIPCION|VALOR DE RETORNO|
+|:-:|:-:|:-:|
 |[ft_strcmp](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_strcmp.c)|Compara si dos cadenas son iguales|-Mayor que cero<br>- Cero<br>- Menor que cero|
 |[ft_strncmp](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_strncmp.c)|Compara si los primeros n bytes de dos cadenas son iguales|-Mayor que cero<br>- Cero<br>- Menor que cero|
 |[ft_strchr](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_strchr.c)|Busca la primera aparicion de un caracter en una cadena| - Puntero al caracter<br>- NULL|
