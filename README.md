@@ -1,4 +1,24 @@
-# mylibft
+<h1 align="center">🖖  MyLibft  🖖</h1>
+
+<p align="center"><b><i>A COMPILATION OF ALL THE FUNCTIONS I HAVE CREATED AND USED IN THE 42's CURSUS PROJECTS</i></b><br></p>
+
+<p align="center">
+	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Sant-TIG/mylibft?color=lightblue" />
+	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/Sant-TIG/mylibft?color=critical" />
+	<img alt="Code language count" src="https://img.shields.io/github/languages/count/Sant-TIG/mylibft?color=yellow" />
+	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Sant-TIG/mylibft?color=blue" />
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Sant-TIG/mylibft?color=green" />
+</p>
+
+<h3 align="center">
+	<a href="#%EF%B8%8F-about">About</a>
+	<span> · </span>
+	<a href="#%EF%B8%8F-usage">Usage</a>
+	<span> · </span>
+	<a href="#-testing">Testing</a>
+</h3>
+
+---
 
 ## Strings Library Functions
 |FUNCIONES|DESCRIPCION|VALOR DE RETORNO|
