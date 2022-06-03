@@ -30,6 +30,7 @@
 |:-:|:-:|:-:|
 |[ft_stpcpy](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_stpcpy.c)|Copia una cadena en otra. Puede reemplazar a la funcion ft_strcat()|- Puntero al final de la cadena de destino|
 |[ft_strcmp](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_strcmp.c)|Compara si dos cadenas son iguales|-Mayor que cero<br>- Cero<br>- Menor que cero|
+|[ft_strcpy](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_strcpy.c)|Copia una cadena en otra.|- Puntero a la cadena de destino|
 |[ft_strncmp](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_strncmp.c)|Compara si los primeros n bytes de dos cadenas son iguales|-Mayor que cero<br>- Cero<br>- Menor que cero|
 |[ft_strchr](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_strchr.c)|Busca la primera aparicion de un caracter en una cadena| - Puntero al caracter<br>- NULL|
 |[ft_strrchr](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_strrchr.c)|Busca la ultima aparicion de un caracter en una cadena| - Puntero al caracter<br>- NULL|
