@@ -36,7 +36,7 @@
 |:-:|:-:|:-:|
 |[ft_stpcpy](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_stpcpy.c)|Copia una cadena en otra. Puede reemplazar a la funcion ft_strcat(). Las memorias no deben superponerse|- Puntero al final de la cadena de destino|
 |[ft_stpncpy](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_stpncpy.c)|Copia n bytes de una cadena en otra. Rellena exactamente n bytes en la cadena de destino|- Puntero al ultimo byte de la cadena de destino|
-|[ft_strcasecmp]()|||
+|[ft_strcasecmp](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_strcasecmp.c)|Compare two strings ignoring the case of their characters||
 |[ft_strcasestr]()|||
 |[ft_strcat]()|||
 |[ft_strchr](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_strchr.c)|Busca la primera aparicion de un caracter en una cadena| - Puntero al caracter<br>- NULL|
