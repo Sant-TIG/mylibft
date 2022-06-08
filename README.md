@@ -38,15 +38,22 @@
 |[ft_stpncpy](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_stpncpy.c)|Copia n bytes de una cadena en otra. Rellena exactamente n bytes en la cadena de destino|- Puntero al ultimo byte de la cadena de destino|
 |[ft_strcasecmp]()|||
 |[ft_strcasestr]()|||
+|[ft_strcat]()|||
+|[ft_strchr](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_strchr.c)|Busca la primera aparicion de un caracter en una cadena| - Puntero al caracter<br>- NULL|
+|[ft_strchrnul](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_strchrnul.c)|Busca la primera aparicion de un caracter en una cadena| - Puntero al caracter<br>- Puntero al caracter nulo|
 |[ft_strcmp](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_strcmp.c)|Compara si dos cadenas son iguales|-Mayor que cero<br>- Cero<br>- Menor que cero|
 |[ft_strcpy](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_strcpy.c)|Copia una cadena en otra. Las memorias no deben superponerse|- Puntero a la cadena de destino.|
+|[ft_strlcat]()|||
+|[ft_strlcpy]()|||
+|[ft_strlen]()|||
+|[ft_strncasecmp]()|||
+|[ft_strncat]()|||
 |[ft_strncmp](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_strncmp.c)|Compara si los primeros n bytes de dos cadenas son iguales|-Mayor que cero<br>- Cero<br>- Menor que cero|
-|[ft_strchr](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_strchr.c)|Busca la primera aparicion de un caracter en una cadena| - Puntero al caracter<br>- NULL|
+|[ft_strncpy]()|||
+|[ft_strnstr]()|||
 |[ft_strrchr](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_strrchr.c)|Busca la ultima aparicion de un caracter en una cadena| - Puntero al caracter<br>- NULL|
-|[ft_strchrnul](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_strchrnul.c)|Busca la primera aparicion de un caracter en una cadena| - Puntero al caracter<br>- Puntero al caracter nulo|
 |[ft_strstr](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_strstr.c)|Busca la primera aparicion de una subcadena en una cadena|- Puntero a la subcadena<br>- NULL<br>-Puntero a la cadena|
-
-
+|[ft_substr]()|||
 
 ## Convert Functions
 |FUNCIONES|DESCRIPCION|VALOR DE RETORNO|
