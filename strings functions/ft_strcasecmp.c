@@ -15,9 +15,9 @@ str2 ---> the second string to compare
 
 DESCRIPTION
 ***********
-The ft_strcasecmp() function checks if two strings are equal or not ignoring the
-case of the characters. To do this, it compares both strings character by
-character until it finds a difference or one of them ends.
+The ft_strcasecmp() function compares two strings ignoring the case of their
+characters. To do this, it compares both strings character by character until
+it finds a difference or one of them ends.
 
 In any of the cases, the return value will be the difference between the last
 parsed pairs of bytes, so that if all pairs bytes parsed are equal, the result
