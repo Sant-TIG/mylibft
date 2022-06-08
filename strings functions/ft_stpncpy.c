@@ -16,7 +16,7 @@ n   ---> the number of bytes to be copied
 
 DESCRIPTION
 ***********
-The ft_stpncpy() function copies at most n bytes from the string pointed to by
+The ft_stpncpy() function copies exactly n bytes from the string pointed to by
 'src' to the array pointed to by 'dst', incluiding the terminating null byte
 '\0'. The destination array must be large enough to receive the content of the
 string and both memory areas may not overlap.
