@@ -12,6 +12,12 @@
 
 <h3 align="center">
 	<a href="#memory-functions">Memory</a>
+	<span> . </span>
+	<a href="#strings-functions">Strings</a>
+	<span> . </span>
+	<a href="#convert-functions">Convert</a>
+	<span> . </span>
+	<a href="#check-functions">Check</a>
 </h3>
 
 ---
@@ -25,7 +31,7 @@
 |[ft_memmove](https://github.com/Sant-TIG/mylibft/blob/master/memory%20functions/ft_memmove.c)|Copia n bytes de un area de memoria en otra. Las memorias pueden superponerse|- Puntero al area de memoria de destino<br>- NULL|
 |[ft_memset](https://github.com/Sant-TIG/mylibft/blob/master/memory%20functions/ft_memset.c)|Copia un caracter en los primeros n bytes de un espacio de memoria|-Puntero al espacio de memoria|
 
-## Strings Library Functions
+## Strings Functions
 |FUNCIONES|DESCRIPCION|VALOR DE RETORNO|
 |:-:|:-:|:-:|
 |[ft_stpcpy](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_stpcpy.c)|Copia una cadena en otra. Puede reemplazar a la funcion ft_strcat(). Las memorias no deben superponerse|- Puntero al final de la cadena de destino|
@@ -42,13 +48,13 @@
 
 
 
-## Convert Library Functions
+## Convert Functions
 |FUNCIONES|DESCRIPCION|VALOR DE RETORNO|
 |:-:|:-:|:-:|
 |[ft_toupper](https://github.com/Sant-TIG/mylibft/blob/master/convert/ft_toupper.c)|Convierte un caracter a mayusculas|- El caracter convertido<br> - El caracter original|
 |[ft_tolower](https://github.com/Sant-TIG/mylibft/blob/master/convert/ft_tolower.c)|Convierte un caracter a minusculas|- El caracter convertido<br> - El caracter original|
 
-## Check Library Functions
+## Check Functions
 |FUNCIONES|DESCRIPCION|VALOR DE RETORNO|
 |:-:|:-:|:-:|
 |[ft_islower](https://github.com/Sant-TIG/mylibft/blob/master/check/ft_islower.c)|Comprueba si un caracter esta en minusculas|- Distinto de cero<br> - Cero|
