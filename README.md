@@ -12,11 +12,11 @@
 
 <h3 align="center">
 	<a href="#memory-functions">Memory</a>
-	<span> . </span>
+	<span> · </span>
 	<a href="#strings-functions">Strings</a>
-	<span> . </span>
+	<span> · </span>
 	<a href="#convert-functions">Convert</a>
-	<span> . </span>
+	<span> · </span>
 	<a href="#check-functions">Check</a>
 </h3>
 
