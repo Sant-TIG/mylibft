@@ -14,7 +14,7 @@
 
   DESCRIPTION
   ***********
-  The ft_toupper() function uses the ft_islower() subfunction to check if 'c'
+  The ft_toupper() function uses the ft_islower() function to check if 'c'
   is alphabetic and lowercase. If it is the case, converts it to uppercase and
   if it not, it does not modify it.
 
