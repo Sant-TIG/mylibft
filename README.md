@@ -52,7 +52,7 @@
 |[ft_strncat]()|||
 |[ft_strncmp](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_strncmp.c)|Compara si los primeros n bytes de dos cadenas son iguales|-Mayor que cero<br>- Cero<br>- Menor que cero|
 |[ft_strncpy]()|||
-|[ft_strnstr]()|||
+|[ft_strnstr](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_strnstr.c)|Busca la primera aparicion de una subcadena en los primeros n bytes de una cadena|- Puntero a la subcadena<br>-Puntero a la cadena<br>- NULL|
 |[ft_strrchr](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_strrchr.c)|Busca la ultima aparicion de un caracter en una cadena| - Puntero al caracter<br>- NULL|
 |[ft_strstr](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_strstr.c)|Busca la primera aparicion de una subcadena en una cadena|- Puntero a la subcadena<br>- NULL<br>-Puntero a la cadena|
 |[ft_substr](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_substr.c)|Extrae una subcadena de una cadena|- Puntero a la subcadena<br>- Puntero a un caracter nulo<br>- NULL|
