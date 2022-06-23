@@ -49,6 +49,7 @@
 |[ft_strlcat]()|||
 |[ft_strlcpy]()|||
 |[ft_strlen]()|||
+|[ft_strmapi](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_strmapi.c)|Aplica una funcion a cada caracter de una cadena|- Puntero a la nueva cadena<br>- NULL|
 |[ft_strncasecmp]()|||
 |[ft_strncat]()|||
 |[ft_strncmp](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_strncmp.c)|Compara si los primeros n bytes de dos cadenas son iguales|-Mayor que cero<br>- Cero<br>- Menor que cero|
