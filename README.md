@@ -47,7 +47,7 @@
 |[ft_strcmp](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_strcmp.c)|Compara si dos cadenas son iguales|-Mayor que cero<br>- Cero<br>- Menor que cero|
 |[ft_strcpy](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_strcpy.c)|Copia una cadena en otra. Las memorias no deben superponerse|- Puntero a la cadena de destino.|
 |[ft_strlcat]()|||
-|[ft_strlcpy]()|||
+|[ft_strlcpy](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_strlcpy.c)|Copia n - 1 bytes de una cadena a otra, terminando con un caracter nulo. Reemplazo de la funcion ft_strncpy()|- Longitud de la cadena que se va a copiar|
 |[ft_strlen](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_strlen.c)|Calcula la longitud de una cadena|- El numero de bytes de la cadena<br>- Cero|
 |[ft_strmapi](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_strmapi.c)|Aplica una funcion a cada caracter de una cadena|- Puntero a la nueva cadena<br>- NULL|
 |[ft_strncasecmp]()|||
