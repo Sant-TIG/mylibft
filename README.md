@@ -1,3 +1,5 @@
+1. Comprobar las nuevas funciones con los tests
+
 <h1 align="center">🖖  MyLibft  🖖</h1>
 
 <p align="center"><b><i>A COMPILATION OF ALL THE FUNCTIONS I HAVE CREATED AND USED IN THE 42's CURSUS PROJECTS</i></b><br></p>
