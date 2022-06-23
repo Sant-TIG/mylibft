@@ -55,7 +55,7 @@
 |[ft_strnstr]()|||
 |[ft_strrchr](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_strrchr.c)|Busca la ultima aparicion de un caracter en una cadena| - Puntero al caracter<br>- NULL|
 |[ft_strstr](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_strstr.c)|Busca la primera aparicion de una subcadena en una cadena|- Puntero a la subcadena<br>- NULL<br>-Puntero a la cadena|
-|[ft_substr]()|||
+|[ft_substr](https://github.com/Sant-TIG/mylibft/blob/master/strings%20functions/ft_substr.c)|Extrae una subcadena de una cadena|- Puntero a la subcadena<br>- Puntero a un caracter nulo<br>- NULL|
 
 ## Convert Functions
 |FUNCIONES|DESCRIPCION|VALOR DE RETORNO|
