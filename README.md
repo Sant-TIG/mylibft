@@ -1,4 +1,5 @@
 1. Comprobar las nuevas funciones con los tests
+2. meter ejemplos
 
 <h1 align="center">🖖  MyLibft  🖖</h1>
 
